@@ -6,7 +6,7 @@ I have solved it as a regression problem using Linear Regression.
 
 The dataset used here is Wine Quality Data set from UCI Machine Learning Repository. 
 I have attached the csv file needed for the regression task - winequality-red.csv
-The same can also be found here https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+The same can also be found here https://github.com/dsrscientist/DSData/blob/master/winequality-red.csv
 
 Input variables (based on physicochemical tests): 
 1. fixed acidity 
